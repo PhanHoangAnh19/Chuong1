@@ -1,0 +1,14 @@
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\bin\Debug\net8.0\bài8.exe
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\bin\Debug\net8.0\bài8.deps.json
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\bin\Debug\net8.0\bài8.runtimeconfig.json
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\bin\Debug\net8.0\bài8.dll
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\bin\Debug\net8.0\bài8.pdb
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.AssemblyInfoInputs.cache
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.AssemblyInfo.cs
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.csproj.CoreCompileInputs.cache
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.dll
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\refint\bài8.dll
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.pdb
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\bài8.genruntimeconfig.cache
+F:\C# thầy ĐỖ PHÚ HUY\bài8\bài8\obj\Debug\net8.0\ref\bài8.dll
